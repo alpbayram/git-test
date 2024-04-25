@@ -5,3 +5,9 @@ pc ismi deneme
 
 başka branch
 123123asds
+
+
+
+
+
+merge denemesi
