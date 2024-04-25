@@ -1,4 +1,6 @@
 deneme123   
 123123
 editor deneme
-pc ismi denemeqwesadas sad
+pc ismi deneme
+
+başka branch
