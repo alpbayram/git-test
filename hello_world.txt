@@ -4,4 +4,4 @@ editor deneme
 pc ismi deneme
 
 başka branch
-123123
+123123asds
