@@ -1,3 +1,4 @@
 deneme123   
 123123
 editor deneme
+pc ismi deneme
